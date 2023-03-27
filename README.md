@@ -1,12 +1,12 @@
 # Overview
+Deploy a pre-trained ML app using CI/CD with github action and azure devops.
 
-<TODO: complete this with an overview of your project>
 
 ## Project Plan
-<TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+
+* https://trello.com/invite/b/KpzguGUS/ATTIaa1c9707691471b68e9c4c3f82476c5e412A3089/untitled-board 
+* https://docs.google.com/spreadsheets/d/1s-Cb83qRh870S7P5DGP6j4qKz714c_LwSNWEecOZmRE/edit?usp=sharing
 
 ## Instructions
 
