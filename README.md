@@ -10,10 +10,10 @@ Deploy a pre-trained ML app using CI/CD with github action and azure devops.
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+* Architectural Diagram (Shows how key parts of the system work)
+
+
 
 * Project running on Azure App Service
 ![image](https://user-images.githubusercontent.com/47712278/228059139-909f0eea-5b04-4b28-8a19-4c8cee214f3b.png)
@@ -74,7 +74,7 @@ Port: 443
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+There are some issues with the starte code and instructions. 
 
 ## Demo 
 
