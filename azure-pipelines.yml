@@ -11,13 +11,13 @@ variables:
   azureServiceConnectionId: '3c82855b-49c2-4ed3-81ee-c0542a451189'
 
   # Web app name
-  webAppName: 'azure-flask-ml-app'
+  webAppName: 'joyontest'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
   # Environment name
-  environmentName: 'azure-flask-ml-app'
+  environmentName: 'joyontest'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
