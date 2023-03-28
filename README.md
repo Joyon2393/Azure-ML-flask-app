@@ -12,6 +12,13 @@ Deploy a pre-trained ML app using CI/CD with github action and azure devops.
 
 
 * Architectural Diagram (Shows how key parts of the system work)
+![image](https://user-images.githubusercontent.com/47712278/228207380-0471dd1d-02a9-4425-8508-23eb85e25ca1.png)
+
+Steps:
+Enable Cloude shell in Azure
+Clone the repository
+Connect to azure devops(follow the official MS documentation for the integration)
+Run az webapp up -n <your app name>
 
 
 
